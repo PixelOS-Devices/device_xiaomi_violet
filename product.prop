@@ -54,6 +54,9 @@ debug.hwui.skia_atrace_enabled=false
 # FUSE passthrough
 persist.sys.fuse.passthrough.enable=true
 
+# Display
+ro.sf.lcd_density=420
+
 # Graphics
 debug.renderengine.backend=skiaglthreaded
 debug.cpurend.vsync=false
