@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_violet.mk
+    $(LOCAL_DIR)/spark_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_violet-user \
-    aosp_violet-userdebug \
-    aosp_violet-eng
+    spark_violet-user \
+    spark_violet-userdebug \
+    spark_violet-eng
