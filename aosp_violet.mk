@@ -12,7 +12,7 @@ $(call inherit-product, device/xiaomi/violet/device.mk)
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
 # Inherit ANX Camera
-$(call inherit-product, vendor/ANXCamera/config.mk)
+# $(call inherit-product, vendor/ANXCamera/config.mk)
 
 # Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
